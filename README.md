@@ -2,7 +2,7 @@
 
 ## Data Source:  
 https://www.kaggle.com/datasets/sberj127/kpop-hits-through-the-years  
-The dataset contains songs included in Apple Music's annual K-Pop Hits playlists. Musical features for each song were obtained from Spotify using the Spotipy library. 
+The dataset contains songs included in Apple Music's annual K-Pop Hits playlists. Musical features for each song were obtained from Spotify using the Spotipy library.  
 The documentation for the Spotify audio features can be found here:  
 https://developer.spotify.com/documentation/web-api/reference/get-audio-features  
 
