@@ -13,7 +13,7 @@ We build several models with the task of classifying whether a song is attribute
 ### Idol Group Classification:  
 Songs were classified as either attributed to an idol group or non-idol group artist(s). Songs by soloists or solo members of idol groups were classified as attributed to non-idol group artist(s). Songs by idol group subunits were classified as attributed to an idol group. Songs by an idol group featuring non-affiliated artists were classified as attributed to an idol group. 
 ### Artist Gender:  
-Artists were classified as either male, female, or mixed. Male and female artists include both soloists and groups. Mixed gender artists are groups comprising of artists of more than one gender, including features and collaborations. 
+Artists were categorized as either male, female, or mixed. Male and female artists include both soloists and groups. Mixed gender artists are groups comprising of artists of more than one gender, including features and collaborations. 
 
 ## How to Run the Dashboard:  
 ### dashboard.py
